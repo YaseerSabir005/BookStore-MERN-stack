@@ -14,8 +14,9 @@ To run the application locally:
   1) Clone the repository.
   2) Navigate to the project directory.
   3) Install dependencies using npm install.
-  4) Start the backend by using npm run dev in the backend folder
-  5) Start the frontend by using npm run dev in the frontend folder
-  6) Open the browser and visit http://localhost:5173 to access the application.
+  4) Run npm create vite@latest to install vite
+  5) Start the backend by using npm run dev in the backend folder
+  6) Start the frontend by using npm run dev in the frontend folder
+  7) Open the browser and visit http://localhost:5173 to access the application.
    
 Feel free to explore the codebase and contribute to the project!
