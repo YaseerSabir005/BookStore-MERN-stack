@@ -15,6 +15,6 @@ To run the application locally:
   2) Navigate to the project directory.
   3) Install dependencies using npm install.
   4) Start the server using npm start.
-  5) Open the browser and visit http://localhost:3000 to access the application.
+  5) Open the browser and visit http://localhost:5173 to access the application.
    
 Feel free to explore the codebase and contribute to the project!
